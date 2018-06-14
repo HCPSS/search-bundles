@@ -1,0 +1,21 @@
+{
+  "search_terms": [
+    "jumpstart",
+    "dual enrollment",
+    "hcc",
+    "howard community college",
+    "college credit",
+  ],
+  "primary_result": {
+    "title": "JumpStart",
+    "url": "https://www.hcpss.org/jumpstart/",
+    "description": "A partnership between HCPSS and Howard Community College to expand options for students to gain college credits, explore possible careers, or earn an associate degree."
+   },
+  "secondary_results": [
+     {
+       "title": "JumpStart - Sample Course Schedules",
+        "url": "https://www.hcpss.org/jumpstart/course-schedule/",
+        "description": "Course schedule samples detailing the possible high school course opportunities."
+     }
+   ]
+}
